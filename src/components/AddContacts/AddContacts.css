@@ -1,0 +1,9 @@
+.contacts {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  margin-top: 50px;
+  border: 2px solid grey;
+  padding: 10px;
+}

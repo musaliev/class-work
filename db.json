@@ -1,0 +1,11 @@
+{
+  "contacts": [
+    {
+      "name": "Mirdin",
+      "phone": "996 551 111111",
+      "email": "some@gmail.com",
+      "img": "https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg",
+      "id": 2
+    }
+  ]
+}
